@@ -8,9 +8,10 @@ echo "Activation my venv"
 source venv/bin/activation
 
 echo"............"
-echo"installing requirements...."
+echo"installing requirement...."
 pip install -r requirements.txt
 
 sleep(2)
 echo"install done"
 echo"Creation Activation and install of library done"
+
