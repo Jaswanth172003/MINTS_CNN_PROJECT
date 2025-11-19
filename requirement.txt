@@ -1,0 +1,7 @@
+# MINTS_CNN_PROJECT
+tensorflow
+opencv_python
+streamlit
+numpy
+pillow
+matplotlib
